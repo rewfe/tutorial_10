@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E05B384D-5A55-4631-981B-B35623E2792F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tutorial_9</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>374AF90C5AAA5B98E81DF497E08DF9F3834A34C1</key>
+		<string>https://github.com/rewfe/Tutorial_9.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tutorial_9.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>374AF90C5AAA5B98E81DF497E08DF9F3834A34C1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rewfe/Tutorial_9.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>374AF90C5AAA5B98E81DF497E08DF9F3834A34C1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>374AF90C5AAA5B98E81DF497E08DF9F3834A34C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tutorial_9</string>
+		</dict>
+	</array>
+</dict>
+</plist>
